@@ -119,5 +119,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 Created by [Yonatan Dudai](https://github.com/yonatandudai)  
 Feel free to fork, star, or contribute!
 ```
-
----
