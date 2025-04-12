@@ -4,7 +4,7 @@ import axios from "axios";
 // This instance can be used to make requests to the backend API
 // without needing to specify the base URL and headers each time
 const api = axios.create({
-  baseURL: "https://clients-manager-qy3d.onrender.com", // update if your server uses a different port
+  baseURL:  import.meta.env.VITE_API_BASE_URL, // update if your server uses a different port
   headers: {
     "Content-Type": "application/json",
   },
